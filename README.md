@@ -4,8 +4,11 @@
 데이터를 전처리하여 csv파일로 저장
 
 
+
+
 ## kmeans.ipynb
-Outlier를 구하기 위한 kmeans-clustering
+Outlier를 구하기 위한 kmeans-clustering  
+
 
 
 ## anormaly_detection_final.ipynb
